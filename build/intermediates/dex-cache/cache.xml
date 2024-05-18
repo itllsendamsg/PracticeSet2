@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\PracticeSet2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dce5175687cb143bab513bc6233647871b9e84dc">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\PracticeSet2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b81636f033797539041c75fdde91bf381f4644a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\PracticeSet2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\PracticeSet2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8c13a062473b71fac7fdb977a435c4ee6f9e681f\classes.dex" />
+    </item>
+
+</items>
